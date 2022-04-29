@@ -18,3 +18,13 @@ C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\Proje
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csproj.CoreCompileInputs.cache
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.dll
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.deps.json
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csproj.AssemblyReference.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.AssemblyInfoInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.AssemblyInfo.cs
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csproj.CoreCompileInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.pdb

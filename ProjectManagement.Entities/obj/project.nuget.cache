@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qVYQjCYYII/Rx22bMX1IgJCqHDT94ErzsCGY2DttHivFBfR1yQkcYv8/qEN/qafRz4EVssarTbjEFHuzr2qjeg==",
+  "dgSpecHash": "dJL9/79AuhHZRE9ZW7niBvm4bMwtMgr9spbb1M/pLUVkZP4WBTWWxFiYbp3pMHunbSFMbB+h8EPH1lY0gNWzRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+  "projectFilePath": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

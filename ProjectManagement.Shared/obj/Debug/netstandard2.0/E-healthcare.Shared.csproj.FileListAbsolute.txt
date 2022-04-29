@@ -18,3 +18,13 @@ C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\Proje
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb

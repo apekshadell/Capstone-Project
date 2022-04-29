@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7EKoVuzA8MpqDF1cQ6sX4O8SY9SrzhqZs0Wx1uhMyMMIaz6rlevZNhEpZ9/YV4YNrNy9mGxzkV76NQrk74hyQ==",
+  "dgSpecHash": "jhkL3AGJ/zE9eOalNs4HjsFQfYyDxSpTUD5fYwvifNTYCc1wcImh+Zi5ta1h35wSa1+zpl2JQ2lBcNbf3rrBug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Api\\E-healthcare.Api.csproj",
+  "projectFilePath": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Api\\E-healthcare.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\apeksha_agarwal\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\apeksha_agarwal\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.14\\microsoft.aspnetcore.authentication.jwtbearer.3.1.14.nupkg.sha512",

@@ -7688,11 +7688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Api\\E-healthcare.Api.csproj",
+      "projectUniqueName": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Api\\E-healthcare.Api.csproj",
       "projectName": "E-healthcare.Api",
-      "projectPath": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Api\\E-healthcare.Api.csproj",
+      "projectPath": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Api\\E-healthcare.Api.csproj",
       "packagesPath": "C:\\Users\\apeksha_agarwal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Api\\obj\\",
+      "outputPath": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7714,14 +7714,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj": {
-              "projectPath": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj"
+            "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj": {
+              "projectPath": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj"
             },
-            "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
-              "projectPath": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
+            "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
+              "projectPath": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
             },
-            "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
-              "projectPath": "C:\\Users\\apeksha_agarwal\\Downloads\\E-HealthCare-master\\E-HealthCare-master\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
+            "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
+              "projectPath": "C:\\Users\\apeksha_agarwal\\OneDrive - Dell Technologies\\Desktop\\CApstone Project\\CP\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
             }
           }
         }

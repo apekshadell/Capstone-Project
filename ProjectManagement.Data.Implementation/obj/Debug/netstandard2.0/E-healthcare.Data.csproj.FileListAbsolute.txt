@@ -28,3 +28,18 @@ C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\Proje
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CopyComplete
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.dll
 C:\Users\apeksha_agarwal\Downloads\E-HealthCare-master\E-HealthCare-master\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.deps.json
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.AssemblyReference.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfoInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfo.cs
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CoreCompileInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CopyComplete
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\CApstone Project\CP\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.pdb
